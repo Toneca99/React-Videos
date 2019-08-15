@@ -1,13 +1,14 @@
 import React from 'react';
 
-const VideoDetail = ({video}) => {
+const VideoDetail = ({video, isDesktop}) => {
 
         if(!video) return 'Loading...';
 
         const videoSrc = `https:www.youtube.com/embed/${video.id.videoId}`;
+        const style = isDesktop ? 0 : '20px'
 
         return (
-            <section className="ui segment"> 
+            <section className="ui segment" style={{marginBottom: `${style}`}}> 
                 <article className="ui embed">
                     <iframe title="video player" src={videoSrc} />
                 </article>
