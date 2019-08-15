@@ -9,7 +9,7 @@ class App extends React.Component {
     state = { videos: [], selectedVideo: null, viewport: window.innerWidth};
 
     componentDidMount() {
-        this.onFormSubmit('universe');
+        this.onFormSubmit('nature');
         window.addEventListener('resize', this.handleResize)
     }
 
