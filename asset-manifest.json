@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Videos/static/css/main.d3ee3a7a.chunk.css",
-    "main.js": "/React-Videos/static/js/main.bddf3705.chunk.js",
-    "main.js.map": "/React-Videos/static/js/main.bddf3705.chunk.js.map",
-    "runtime~main.js": "/React-Videos/static/js/runtime~main.bd5d761d.js",
-    "runtime~main.js.map": "/React-Videos/static/js/runtime~main.bd5d761d.js.map",
-    "static/js/2.885e4917.chunk.js": "/React-Videos/static/js/2.885e4917.chunk.js",
-    "static/js/2.885e4917.chunk.js.map": "/React-Videos/static/js/2.885e4917.chunk.js.map",
-    "index.html": "/React-Videos/index.html",
-    "precache-manifest.3644aab367a9b534d432bca9c2f7d737.js": "/React-Videos/precache-manifest.3644aab367a9b534d432bca9c2f7d737.js",
-    "service-worker.js": "/React-Videos/service-worker.js",
-    "static/css/main.d3ee3a7a.chunk.css.map": "/React-Videos/static/css/main.d3ee3a7a.chunk.css.map"
+    "main.css": "/Toneca99/React-Videos/static/css/main.d3ee3a7a.chunk.css",
+    "main.js": "/Toneca99/React-Videos/static/js/main.25dfc02f.chunk.js",
+    "main.js.map": "/Toneca99/React-Videos/static/js/main.25dfc02f.chunk.js.map",
+    "runtime~main.js": "/Toneca99/React-Videos/static/js/runtime~main.5468cefe.js",
+    "runtime~main.js.map": "/Toneca99/React-Videos/static/js/runtime~main.5468cefe.js.map",
+    "static/js/2.e28db64f.chunk.js": "/Toneca99/React-Videos/static/js/2.e28db64f.chunk.js",
+    "static/js/2.e28db64f.chunk.js.map": "/Toneca99/React-Videos/static/js/2.e28db64f.chunk.js.map",
+    "index.html": "/Toneca99/React-Videos/index.html",
+    "static/css/main.d3ee3a7a.chunk.css.map": "/Toneca99/React-Videos/static/css/main.d3ee3a7a.chunk.css.map"
   }
 }
